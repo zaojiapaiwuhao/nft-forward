@@ -1,9 +1,9 @@
 # nft-forward
-基于 nftables 的 Linux 端口转发管理脚本，支持域名解析和自动定时重载。
-
-# nft-forward
 
 基于 `nftables` 的 Linux 端口转发管理脚本，支持域名解析和自动定时重载。
+支持离线安装，下载脚本到本地vps上直接 
+chmod +x nft.sh
+./nft.sh
 
 ## 功能特性
 
